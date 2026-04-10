@@ -106,4 +106,4 @@ Merci aux différentes personnes qui m'ont accompagné de près ou de loin dans 
 
 Je tiens particulièrement à remercier **Gentien Philibert** qui a suivi le projet tout du long, a contribué techniquement à la création du site web, et a réaliser des tests avec le models.
 
-**Merci**
+**Merci pour ce projet - À bientôt**
